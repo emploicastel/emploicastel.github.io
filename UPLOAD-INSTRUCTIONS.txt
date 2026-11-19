@@ -1,0 +1,10 @@
+GITHUB PAGES
+1. Open repository: emploicastel.github.io
+2. Upload the FILES INSIDE this folder to the repository root (do not upload the ZIP itself as the website).
+3. Commit the files.
+4. Open Settings > Pages.
+5. Choose Deploy from a branch.
+6. Branch: main / Folder: /(root).
+7. Save.
+
+Your intended site URL: https://emploicastel.github.io/
